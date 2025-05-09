@@ -1,0 +1,3 @@
+python decode_apk.py
+python build_apk.py decoded_apk
+python sign_apk.py output.apk signed_output.apk
